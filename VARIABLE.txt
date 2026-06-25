@@ -1,0 +1,5 @@
+Una variable es un espacio en la memoria donde se almacenan datos,
+a los cuales les damos un valor
+y pueden cambiar.
+ej:
+Variable entera (int): Almacena números enteros. Ejemplo: int edad = 25;.
