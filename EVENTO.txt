@@ -1,0 +1,5 @@
+Un evento es una acción o situación específica que activa una respuesta o tarea determinada dentro de una instrucción o sistema. 
+En otras palabras, cuando ocurre algo en particular, la inteligencia artificial ejecuta la acción que se le ha indicado.
+Por ejemplo: "Cuando el usuario escriba la palabra 'ayuda', muestra una lista de comandos disponibles y una breve explicación de cada uno".
+En este caso, el evento es que el usuario escriba la palabra "ayuda", y la acción que realiza la IA es mostrar la información solicitada. 
+Esto permite que las respuestas se activen según determinadas situaciones o acciones.
